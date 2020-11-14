@@ -33,3 +33,14 @@ hr {
     border-radius: 50%;
 }
 
+.inicio, 
+.recetas,
+.recetas_relacionadas
+{
+    font-family: 'Cabin', sans-serif;
+}
+
+.recetas_relacionadas h2{
+    font-size: 2.7rem;
+    font-weight: 700;
+}
