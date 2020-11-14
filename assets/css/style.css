@@ -4,6 +4,7 @@
 
 :root {
     --gray: #707070;
+    --black: #000;  
 }
 
 .navbar-brand {
@@ -19,5 +20,15 @@ hr {
     height: 0.20rem;
     border: none;
     background-color: var(--gray);
+}
 
+.carousel-indicators{
+    top: 210px;
+}
+
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    background-color: var(--black);
+    border-radius: 50%;
 }
