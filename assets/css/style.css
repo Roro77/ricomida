@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+
+:root {
+    --gray: #707070;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', sans-serif;
+    font-size: 1.8rem; 
+}
+
+nav a {
+    font-family: 'Cabin', sans-serif;
+}
+
+hr {
+    height: 0.20rem;
+    border: none;
+    background-color: var(--gray);
+
+}
