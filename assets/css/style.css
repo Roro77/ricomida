@@ -4,7 +4,8 @@
 
 :root {
     --gray: #707070;
-    --black: #000;  
+    --black: #000;
+
 }
 
 .navbar-brand {
@@ -43,4 +44,8 @@ hr {
 .recetas_relacionadas h2{
     font-size: 2.7rem;
     font-weight: 700;
+}
+
+.newsletter span{
+    font-family: 'Lobster', sans-serif;
 }
